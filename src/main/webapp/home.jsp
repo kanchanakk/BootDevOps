@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to BootDevOps Project 
+Welcome to BootDevOps Project Demo
 </body>
 </html>
