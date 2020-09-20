@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to BootDevOps Project Demo Check CI CD 
+Welcome to BootDevOps Project Demo CI CD
 </body>
 </html>
